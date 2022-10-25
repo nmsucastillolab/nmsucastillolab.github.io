@@ -1,3 +1,15 @@
-# Castillo Lab Humoral Immunology
+# Castillo Lab of Humoral Immunology
 
-#### Welcome to the Castillo Lab
+## Lab Information
+
+## Lab PI
+
+## Lab Members
+
+### Deblina Misra
+
+### Jorge Galarza
+
+### Tathagata Debnath
+
+### Taylor Tuono
