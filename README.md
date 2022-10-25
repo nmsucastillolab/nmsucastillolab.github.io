@@ -14,7 +14,7 @@
 
 ### Tathagata Debnath
 
-### Undergraduate Students
+## Undergraduate Students
 
 ### Taylor Tuono
 
