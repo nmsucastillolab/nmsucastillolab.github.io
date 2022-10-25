@@ -11,6 +11,7 @@
 ### Deblina Misra
 
 ### Jorge Galarza  
+Title: Research Assistant / RISE5 Scholar
 
 ### Tathagata Debnath
 
