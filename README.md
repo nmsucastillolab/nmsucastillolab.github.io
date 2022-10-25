@@ -1,10 +1,10 @@
-# Lab Information
+## Lab Information
 
-# Principal Investigator
+## **Principal Investigator**
 
 ### Dr. Maria G. Castillo
 
-# Graduate Students
+## Graduate Students
 
 ### Deblina Misra
 
@@ -12,8 +12,8 @@
 
 ### Tathagata Debnath
 
-# Undergraduate Students
+## Undergraduate Students
 
 ### Taylor Tuono
 
-# Publications
+## Publications
