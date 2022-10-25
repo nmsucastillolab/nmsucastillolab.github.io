@@ -2,18 +2,18 @@
 
 # Principal Investigator
 
-## Dr. Maria G. Castillo
+### Dr. Maria G. Castillo
 
 # Graduate Students
 
-## Deblina Misra
+### Deblina Misra
 
-## Jorge Galarza  
+### Jorge Galarza  
 
-## Tathagata Debnath
+### Tathagata Debnath
 
 # Undergraduate Students
 
-## Taylor Tuono
+### Taylor Tuono
 
 # Publications
