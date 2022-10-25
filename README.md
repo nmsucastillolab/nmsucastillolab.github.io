@@ -1,2 +1,2 @@
-# nmsucastillolab.github.io
-Welcome to the Castillo Lab
+# Castillo Humoral Immunology Lab
+
