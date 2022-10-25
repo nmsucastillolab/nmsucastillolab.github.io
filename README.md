@@ -8,15 +8,18 @@
 
 ## **Graduate Students**
 
-### Deblina Misra
+### Deblina Misra  
+Title:
 
 ### Jorge Galarza  
 Title: Research Assistant / RISE5 Scholar
 
-### Tathagata Debnath
+### Tathagata Debnath  
+Title:
 
 ## **Undergraduate Students**
 
-### Taylor Tuono
+### Taylor Tuono  
+Title:
 
 ## **Publications**
