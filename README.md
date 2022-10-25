@@ -9,17 +9,17 @@
 ## **Graduate Students**
 
 ### Deblina Misra  
-Title:
+Title: Teaching Assistant
 
 ### Jorge Galarza  
 Title: Research Assistant / RISE5 Scholar
 
 ### Tathagata Debnath  
-Title:
+Title: Research Assistant
 
 ## **Undergraduate Students**
 
 ### Taylor Tuono  
-Title:
+Title: Undergraduate Lab Student
 
 ## **Publications**
