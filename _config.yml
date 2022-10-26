@@ -1,18 +1,4 @@
-# Setup
-title:        Castillo Lab of Humoral Immunology
-tagline:      Welcome to the Castillo Lab at New Mexico State University
-baseurl:      ""
-paginate:     1
-locale:       "en"
-
-# About/contact
-author: Jorge C. Galarza Prieto
-  name:       Jorge C. Galarza Prieto
-  url:        http://nmsucastillolab.github.io
-
-# Gems
-gems:
-  - jekyll-paginate
-
-# Others
-markdown: kramdown
+title: Castillo Lab of Humoral Immunology
+description: Welcome to the Castillo Lab at New Mexico State University
+show_downloads: false
+theme: jekyll-theme-cayman
