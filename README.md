@@ -13,6 +13,7 @@ Title: Research Assistant
 
 ### Jorge C. Galarza Prieto
 Title: Research Assistant / RISE5 Scholar
+[Website](http://jorgegalarza1.github.io)
 
 ### Tathagata Debnath  
 Title: Research Assistant
