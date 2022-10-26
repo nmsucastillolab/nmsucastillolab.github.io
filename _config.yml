@@ -1,17 +1,17 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Castillo Lab of Humoral Immunology
+tagline:      Welcome to the Castillo Lab at New Mexico State University
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+author: Jorge C. Galarza Prieto
+  name:       Jorge C. Galarza Prieto
+  # url:        http://yourhomepage.com 
 
 # Gems
-gems:
+# gems:
   - jekyll-paginate
 
 #Others
