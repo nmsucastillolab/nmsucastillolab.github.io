@@ -11,7 +11,7 @@
 ### Deblina Misra  
 Title: Teaching Assistant
 
-### Jorge Galarza  
+### Jorge C. Galarza Prieto
 Title: Research Assistant / RISE5 Scholar
 
 ### Tathagata Debnath  
