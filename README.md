@@ -9,7 +9,7 @@
 ## **Graduate Students**
 
 ### Deblina Misra  
-Title: Teaching Assistant
+Title: Research Assistant
 
 ### Jorge C. Galarza Prieto
 Title: Research Assistant / RISE5 Scholar
