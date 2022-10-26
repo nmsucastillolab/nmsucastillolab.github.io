@@ -8,11 +8,11 @@ locale:       "en"
 # About/contact
 author: Jorge C. Galarza Prieto
   name:       Jorge C. Galarza Prieto
-  # url:        http://yourhomepage.com 
+  url:        http://yourhomepage.com 
 
 # Gems
-# gems:
+gems:
   - jekyll-paginate
 
-#Others
+# Others
 markdown: kramdown
