@@ -8,7 +8,7 @@
 
 ## **Graduate Students**
 ### Deblina Misra  
-![Image](https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg?raw=true){width=50%, height=50%}  
+![Image](https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg){width=50% height=50%}  
 Title: Research Assistant  
 [Linkedin](https://www.linkedin.com/in/deblina-misra-75a7a476/)  
 
