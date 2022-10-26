@@ -8,7 +8,7 @@
 
 ## **Graduate Students**
 ### Deblina Misra  
-![Image](https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.heic?raw=true)  
+![Image](https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg?raw=true)  
 Title: Research Assistant
 
 ### Jorge C. Galarza Prieto  
