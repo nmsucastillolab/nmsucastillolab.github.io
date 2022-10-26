@@ -1,5 +1,3 @@
-README.md
-
 # Castillo Lab of Humoral Immunology
 
 ## **Lab Information**
