@@ -1,4 +1,4 @@
-#   
+# Castillo Lab of Symbiosis and Comparative Immunity
 ## **Lab Information**
 
 ## **Principal Investigator**
