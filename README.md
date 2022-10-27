@@ -1,5 +1,4 @@
-# 
-
+    
 ## **Lab Information**
 
 ## **Principal Investigator**
