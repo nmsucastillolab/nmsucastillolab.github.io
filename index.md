@@ -30,6 +30,6 @@ Title: Undergraduate Lab Student
 
 ## **Publications**
 
-<h1 align="center">##**Contact us**</h1>  
-<h1 align="center">Lab: (575)646-7876</h1>  
-<h1 align="center">PI: (575)646-7664</h1>  
+<h2 align="center">**Contact us**</h1>  
+<h3 align="center">Lab: (575)646-7876</h1>  
+<h3 align="center">PI: (575)646-7664</h1>  
