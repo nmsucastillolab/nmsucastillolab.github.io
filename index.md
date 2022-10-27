@@ -22,7 +22,10 @@ My name is Jorge C. Galarza Prieto, and I'm a third year Ph. D. student in the D
 [Website](http://jorgegalarza1.github.io)  
 
 ### Tathagata Debnath  
+<img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/tad.jpg?raw=true" width="250" height="300" />  
 **Research Assistant**  
+I am Tathagata Debnath, working as a Bioinformatician in Dr. Castillo's Lab. Currently, I am pursuing a Ph. D. from the Computer Science Department here at NMSU under the supervision of Dr. Joe Song with a focus on Bioinformatics. I have completed my B.Tech in Computer Science from NIT Agartala, India, and M.Tech in Computer Science from TU, India. In Dr. Castillo's Lab, I am working on sequence analysis, reference genome creation, and differential expression analysis on transcriptomic and proteomic data. My research interests include alternative splicing analysis, differential expression detection, clustering and the number of cluster detection from unlabeled data, modification/ creation of new statistical methods for application on biological data etc.  
+[Linkedin](https://www.linkedin.com/in/tathagata-debnath-1a68727a/)
 
 ## **Undergraduate Students**
 
