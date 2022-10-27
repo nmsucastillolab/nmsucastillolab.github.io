@@ -1,4 +1,4 @@
-# Castillo Lab of Symbiosis and Comparative Immunology
+# <p style="color:white">Castillo Lab of Symbiosis and Comparative Immunology</p>
 
 ## **Lab Information**
 
