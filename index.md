@@ -32,4 +32,4 @@ My name is Jorge C. Galarza Prieto, and I am a third year Ph. D. student in the 
 
 <h2 align="center"><b>Contact us</b></h2>
 <h3 align="center">Lab: (575) 646-7876</h3>
-<h3 align="center">PI: (575) 646-7664</h3>
+<h3 align="center">PI: (575) 646-7664 | mcastill@nmsu.edu</h3>
