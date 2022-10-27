@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Castillo Lab of Symbiosis and Comparative Immunology
+
 ## **Lab Information**
 
 ## **Principal Investigator**
