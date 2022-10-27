@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Phone Number: (575) 646 - 7876
+The Castillo Lab focuses on...
 
 ## **Principal Investigator**
 
@@ -29,3 +29,7 @@ Title: Research Assistant
 Title: Undergraduate Lab Student
 
 ## **Publications**
+
+## <h1 align="center">**Contact us**</h1>
+Lab: (575)646-7876
+PI: (575)646-7664
