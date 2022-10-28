@@ -11,8 +11,8 @@ The Castillo Lab focuses on...
 ## **Graduate Students**  
 ### Deblina Misra   
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg?raw=true" width="250" height="300" />  
-I am a 4th year Ph.D. student, and my research project is with Molluscan model *Biomphalaria glabrata* which is the secondary host of disease Schistosomiasis, the second devastating parasitic disease after malaria according to CDC. I am interested to know about the host parasitic interactions in respect to immunology. I am also interested to know about the phospho-proteomics in snails and associated immune signaling pathways in two strains of snail- resistant (BS90) and susceptible strain (BB02) to the parasite.  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/deblina-misra-75a7a476/)  
+I am a 4th year Ph.D. student, and my research project is with Molluscan model *Biomphalaria glabrata* which is the secondary host of disease Schistosomiasis, the second devastating parasitic disease after malaria according to CDC. I am interested to know about the host parasitic interactions in respect to immunology. I am also interested to know about the phospho-proteomics in snails and associated immune signaling pathways in two strains of snail- resistant (BS90) and susceptible strain (BB02) to the parasite.   
 
 ### Jorge C. Galarza Prieto   
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/jorge.jpeg?raw=true" width="250" height="300" />   
