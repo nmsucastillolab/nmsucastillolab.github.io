@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Castillo Lab focuses on...  
+Castillo Lab description coming soon...  
 
 ## **Principal Investigator**  
 
