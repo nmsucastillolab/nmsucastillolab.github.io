@@ -27,7 +27,7 @@ I am Tathagata Debnath, working as a Bioinformatician in Dr. Castillo's Lab. Cur
 ## **Undergraduate Students**  
 ### Taylor Tuono  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/taylor.jpg?raw=true" width="250" height="300" />   
-**Undegraduate Lab Assistant**  
+**Undergraduate Lab Assistant**  
 I am an undergraduate senior attending NMSU and I am double majoring in microbiology and biology, also minoring in chemistry and molecular biology. After graduating from NMSU, I aspire to attend medical school and become a Medical Doctor. My duties in the lab mainly involve conducting *in vivo* experiments with the *Physella acuta* snail species and conducting research. Some of my extracurricular interests include exercising, organizing, and playing video games.  
 
 ## **Publications**  
