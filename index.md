@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Castillo Lab description coming soon...  
+Castillo Lab description coming soon..  
 
 ## **Principal Investigator**  
 
