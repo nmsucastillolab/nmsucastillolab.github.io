@@ -8,27 +8,25 @@ Castillo Lab description coming soon..
 
 ### Dr. Maria G. Castillo  
 
-## **Graduate Students**  
+## **Current Members**
+
+## **Past Members**  
 ### Deblina Misra   
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg?raw=true" width="250" height="300" />  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/deblina-misra-75a7a476/)  
-I am a 4th year Ph.D. student, and my research project is with Molluscan model *Biomphalaria glabrata* which is the secondary host of disease Schistosomiasis, the second devastating parasitic disease after malaria according to CDC. I am interested to know about the host parasitic interactions in respect to immunology. I am also interested to know about the phospho-proteomics in snails and associated immune signaling pathways in two strains of snail- resistant (BS90) and susceptible strain (BB02) to the parasite.   
 
 ### Jorge C. Galarza Prieto   
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/jorge.jpeg?raw=true" width="250" height="300" />   
-**Research Assistant** | **RISE5 Scholar** | [**Linkedin**](https://www.linkedin.com/in/jorge-g-97008b22b) | [**Website**](http://jorgegalarza1.github.io)  
-My name is Jorge C. Galarza Prieto, and I'm a third year Ph. D. student in the Department of Biology at New Mexico State University. I received my B.S. in Human Nutrition and Dietetic Sciences in 2015, my M.S. in Food Science Technology and Engineering in 2019, and now pursuing my Ph. D. in Biology. My areas of interest / experience include microbiome analysis, bioinformatics, data science, data analysis, statistics, food science technology and engineering, and human nutrition and dietetics. The concentration of my doctoral dissertation is analyzing the 16S rRNA gene from extracted microbial DNA, while using the gut of the *Litopenaeus vannamei* shrimp as my model. I am also working with algae in shrimp as well as the CRISPR Cas-9 gene editing tool.    
-
+**Research Assistant** | **RISE5 Scholar** | [**Linkedin**](www.linkedin.com/in/jorge-galarza-ph-d-580a08371)
+ 
 ### Tathagata Debnath  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/tad.jpg?raw=true" width="250" height="300" />  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/tathagata-debnath-1a68727a/)  
-I am Tathagata Debnath, working as a Bioinformatician in Dr. Castillo's Lab. Currently, I am pursuing a Ph. D. from the Computer Science Department here at NMSU under the supervision of Dr. Joe Song with a focus on Bioinformatics. I have completed my B.Tech in Computer Science from NIT Agartala, India, and M.Tech in Computer Science from TU, India. In Dr. Castillo's Lab, I am working on sequence analysis, reference genome creation, and differential expression analysis on transcriptomic and proteomic data. My research interests include alternative splicing analysis, differential expression detection, clustering and the number of cluster detection from unlabeled data, modification/ creation of new statistical methods for application on biological data etc.  
-
+ 
 ## **Undergraduate Students**  
 ### Taylor Tuono  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/taylor.jpg?raw=true" width="250" height="300" />   
 **Undergraduate Lab Assistant**  
-I am an undergraduate senior attending NMSU and I am double majoring in microbiology and biology, also minoring in chemistry and molecular biology. After graduating from NMSU, I aspire to attend medical school and become a Medical Doctor. My duties in the lab mainly involve conducting *in vivo* experiments with the *Physella acuta* snail species and conducting research. Some of my extracurricular interests include exercising, organizing, and playing video games.  
 
 ## **Publications**  
   - Marquez J, Dinguirard N, Gonzalez A, Kane AE, Joffe NR, Yoshino TP, Castillo MG. Molecular characterization of thioester-containing proteins in Biomphalaria glabrata and their differential gene expression upon Schistosoma mansoni exposure. Front Immunol. 2022 Jul 27;13:903158. doi: 10.3389/fimmu.2022.903158. PMID: 35967434; PMCID: PMC9363628.  
