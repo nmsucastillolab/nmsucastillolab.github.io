@@ -11,19 +11,19 @@ Castillo Lab description coming soon..
 ## **Current Members**
 
 ## **Past Members**  
-### Deblina Misra   
+### Deblina Misra  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/deblina.jpg?raw=true" width="250" height="300" />  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/deblina-misra-75a7a476/)  
 
-### Jorge C. Galarza Prieto   
+### Jorge C. Galarza Prieto
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/jorge.jpeg?raw=true" width="250" height="300" />   
-**Research Assistant** | **RISE5 Scholar** | [**Linkedin**](www.linkedin.com/in/jorge-galarza-ph-d-580a08371)
+**Research Assistant** | [**Linkedin**](www.linkedin.com/in/jorge-galarza-ph-d-580a08371)
  
 ### Tathagata Debnath  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/tad.jpg?raw=true" width="250" height="300" />  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/tathagata-debnath-1a68727a/)  
  
-### Taylor Tuono  
+### Taylor Tuono
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/taylor.jpg?raw=true" width="250" height="300" />   
 **Undergraduate Lab Assistant**  
 
