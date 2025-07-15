@@ -23,7 +23,6 @@ Castillo Lab description coming soon..
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/tad.jpg?raw=true" width="250" height="300" />  
 **Research Assistant** | [**Linkedin**](https://www.linkedin.com/in/tathagata-debnath-1a68727a/)  
  
-## **Undergraduate Students**  
 ### Taylor Tuono  
 <img src="https://github.com/nmsucastillolab/nmsucastillolab.github.io/blob/main/taylor.jpg?raw=true" width="250" height="300" />   
 **Undergraduate Lab Assistant**  
